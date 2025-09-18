@@ -50,3 +50,14 @@ p {
   background: #2980b9;
 }
 
+img{
+    width: 348px;
+    text-align: center;
+    height: 348px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
